@@ -5,6 +5,12 @@ Carnegie Mellon University and others
 https://openslide.org/
 
 
+
+
+VSI parser by Nico Curti
+
+https://github.com/Nico-Curti/openslide
+
 ==========================
 
 
